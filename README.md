@@ -1,6 +1,6 @@
-# Title
+# Chatbot
 
-Simple (or clever and funny?) description
+This is a project called the elite qualifer.
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+I made a little chatbot that can keep a conversation with you when your happy or sad.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+You just have to 
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+All you have to do is click run on repel and it will work.
 
 ### Any optional sections
