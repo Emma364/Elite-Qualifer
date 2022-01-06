@@ -2,7 +2,7 @@
 
 This is a project called the elite qualifer.
 
-## Table of Contents
+## Table of Contents 
 
 - [Background](#background)
 
@@ -23,3 +23,10 @@ You just have to
 All you have to do is click run on repel and it will work.
 
 ### Any optional sections
+
+## Test Plan
+To test the project:
+
+1.  Run the test
+2.  Check the results
+3.  Add more info
